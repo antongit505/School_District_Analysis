@@ -88,10 +88,10 @@ As mentioned earlier, a previous analysis was performed and since some informati
     There's no changes in scores by school type.
 
     ![](resources/extra_resources/scores_by_type_challenge.PNG)
-    __Score by type considering 9th THS
+        *Score by type considering 9th THS
 
     ![](resources/extra_resources/scores_by_type_challenge.PNG)
-    __Score by type not considering 9th THS
+        *Score by type not considering 9th THS
 
 
 
