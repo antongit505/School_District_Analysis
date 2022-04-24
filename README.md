@@ -58,40 +58,40 @@ As mentioned earlier, a previous analysis was performed and since some informati
     With the new dataframe an evaluation in performance could not be made since we don't have enough information and it could lead to wrong decisions regarding priorities and affect other schools budgets.
 
     ![](resources/extra_resources/math_scores_canvas_challenge.PNG)
-    > Math Scores
+    > __Math Scores
 
     ![](resources/extra_resources/reading_scores_canvas_challenge.PNG)
-    > Reading Scores
+    > __Reading Scores
 
     - Scores by school spending<br/>
     The amounts were affected by decimals but when rounding the changes are not significant since they don't affect the result.<br/>
     We can check this in the images below.
 
     ![](resources/extra_resources/scores_by_spending_canvas.PNG)
-    > **Score by spending considering 9th THS
+    > __Score by spending considering 9th THS
 
     ![](resources/extra_resources/scores_by_spending_challenge.PNG)
-    > **Score by spending not considering 9th THS
+    > __Score by spending not considering 9th THS
     
 
     - Scores by school size<br/>
     This is the same case as the scores by school spending, there's no changes.
 
     ![](resources/extra_resources/scores_by_size_canvas.PNG)
-    > **Score by size considering 9th THS
+    > __Score by size considering 9th THS
 
     ![](resources/extra_resources/scores_by_size_challenge.PNG)
-    > **Score by size not considering 9th THS
+    > __Score by size not considering 9th THS
     
 
     - Scores by school type<br/>
     There's no changes in scores by school type.
 
     ![](resources/extra_resources/scores_by_type_challenge.PNG)
-    > **Score by type considering 9th THS
+    > __Score by type considering 9th THS
 
     ![](resources/extra_resources/scores_by_type_challenge.PNG)
-    > **Score by type not considering 9th THS
+    > __Score by type not considering 9th THS
 
 
 
