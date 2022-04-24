@@ -53,43 +53,43 @@ As mentioned earlier, a previous analysis was performed and since some informati
 
 * How does replacing the ninth-grade scores affect the following:
 
-        - Math and reading scores by grade
-        Regarding the performance in math and reading by grade, we notice that for 9th grade there's no information and for the rest of the grades the scores remain the same. The images from below shows on the left the original dataframe and in the right is the dataframe not considering the 9th grade students from Thomas High School.
-        With the new dataframe an evaluation in performance could not be made since we don't have enough information and it could lead to wrong decisions regarding priorities and affect other schools budgets.
+    - Math and reading scores by grade
+    Regarding the performance in math and reading by grade, we notice that for 9th grade there's no information and for the rest of the grades the scores remain the       same. The images from below shows on the left the original dataframe and in the right is the dataframe not considering the 9th grade students from Thomas High          School.
+    With the new dataframe an evaluation in performance could not be made since we don't have enough information and it could lead to wrong decisions regarding priorities and affect other schools budgets.
 
-        ![](resources/extra_resources/math_scores_canvas_challenge.PNG)
-        > **Math Scores
+    ![](resources/extra_resources/math_scores_canvas_challenge.PNG)
+            > **Math Scores
 
-        ![](resources/extra_resources/reading_scores_canvas_challenge.PNG)
-        > **Reading Scores
+    ![](resources/extra_resources/reading_scores_canvas_challenge.PNG)
+            > **Reading Scores
 
-        - Scores by school spending
-        The amounts were affected by decimals but when rounding the changes are not significant since they don't affect the result.<br/>
-        We can check this in the images below.
+    - Scores by school spending
+    The amounts were affected by decimals but when rounding the changes are not significant since they don't affect the result.<br/>
+    We can check this in the images below.
 
-        ![](resources/extra_resources/score_by_spending_canvas.PNG)
-        > **Score by spending considering 9th THS
+    ![](resources/extra_resources/score_by_spending_canvas.PNG)
+    > **Score by spending considering 9th THS
 
-        ![](resources/extra_resources/score_by_spending_challenge.PNG)
-        > **Score by spending not considering 9th THS
+    ![](resources/extra_resources/score_by_spending_challenge.PNG)
+    > **Score by spending not considering 9th THS
 
-        - Scores by school size
-        This is the same case as the scores by school spending, there's no changes.
+    - Scores by school size
+    This is the same case as the scores by school spending, there's no changes.
 
-        ![](resources/extra_resources/score_by_size_canvas.PNG)
-        > **Score by size considering 9th THS
+    ![](resources/extra_resources/score_by_size_canvas.PNG)
+    > **Score by size considering 9th THS
 
-        ![](resources/extra_resources/score_by_size_challenge.PNG)
-        > **Score by size not considering 9th THS
+    ![](resources/extra_resources/score_by_size_challenge.PNG)
+    > **Score by size not considering 9th THS
 
-        - Scores by school type
-        There's no changes in scores by school type.
+    - Scores by school type
+    There's no changes in scores by school type.
 
-        ![](resources/extra_resources/score_by_type_challenge.PNG)
-        > **Score by type considering 9th THS
+    ![](resources/extra_resources/score_by_type_challenge.PNG)
+    > **Score by type considering 9th THS
 
-        ![](resources/extra_resources/score_by_type_challenge.PNG)
-        > **Score by type not considering 9th THS
+    ![](resources/extra_resources/score_by_type_challenge.PNG)
+    > **Score by type not considering 9th THS
 
 
 ## Summary
