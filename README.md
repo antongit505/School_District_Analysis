@@ -78,20 +78,20 @@ As mentioned earlier, a previous analysis was performed and since some informati
     This is the same case as the scores by school spending, there's no changes.
 
     ![](resources/extra_resources/scores_by_size_canvas.PNG)
-    __Score by size considering 9th THS
+    > **Score by size considering 9th THS**
 
     ![](resources/extra_resources/scores_by_size_challenge.PNG)
-    __Score by size not considering 9th THS
+    Score by size not considering 9th THS
     
 
     - __Scores by school type__<br/>
     There's no changes in scores by school type.
 
-    ![](resources/extra_resources/scores_by_type_challenge.PNG)
-        *Score by type considering 9th THS
+    ![](resources/extra_resources/scores_by_type_challenge.PNG)<br/>
+    Score by type considering 9th THS
 
-    ![](resources/extra_resources/scores_by_type_challenge.PNG)
-        *Score by type not considering 9th THS
+    ![](resources/extra_resources/scores_by_type_challenge.PNG)<br/>
+    Score by type not considering 9th THS
 
 
 
