@@ -31,14 +31,14 @@ To check if only 9th graders from Thomas High School were modified a comparisson
 
 As mentioned earlier, a previous analysis was performed and since some information was modified we'll analyze how this modifications affected the results obtained.
 
-* How is the district summary affected?
+* How is the district summary affected?<br/>
     As we can see the district summary was barely affected, since the 461 students represent approximately 1% of the total of students from all high schools.<br/>
 
     ![](resources/extra_resources/district_summary_canvas.PNG)
 
     ![](resources/extra_resources/district_summary_challenge.PNG)
 
-* How is the school summary affected?
+* How is the school summary affected?<br/>
     When the math and reading scores from 9th graders of Thomas High School were put as NaN the averages from math and reading barely changed, this could be because   these student's grades were closed to the mean (~83).<br/>
     On the other hand, a drastic change in percentages happens, this means that most of the 9th graders passed both subjects and when calculations were performed not considering them, the numbers dropped. 
 
@@ -46,14 +46,14 @@ As mentioned earlier, a previous analysis was performed and since some informati
 
     ![](resources/extra_resources/district_summary_challenge.PNG)
 
-* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+* How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?<br/>
     When the calculations were performed again but not considering the quantity of 9th grade students from Thomas High School neither their scores, the school district summary showed numbers close to the original summary where we consider the quantity of 9th grade students from Thomas High School.
 
     ![](resources/extra_resources/school_summary_without_9th.PNG)    
 
 * How does replacing the ninth-grade scores affect the following:
 
-    - Math and reading scores by grade
+    - Math and reading scores by grade<br/>
     Regarding the performance in math and reading by grade, we notice that for 9th grade there's no information and for the rest of the grades the scores remain the       same. The images from below shows on the left the original dataframe and in the right is the dataframe not considering the 9th grade students from Thomas High          School.
     With the new dataframe an evaluation in performance could not be made since we don't have enough information and it could lead to wrong decisions regarding priorities and affect other schools budgets.
 
