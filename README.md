@@ -58,10 +58,10 @@ As mentioned earlier, a previous analysis was performed and since some informati
     With the new dataframe an evaluation in performance could not be made since we don't have enough information and it could lead to wrong decisions regarding priorities and affect other schools budgets.
 
     ![](resources/extra_resources/math_scores_canvas_challenge.PNG)
-            > **Math Scores
+    > **Math Scores
 
     ![](resources/extra_resources/reading_scores_canvas_challenge.PNG)
-            > **Reading Scores
+    > **Reading Scores
 
     - Scores by school spending
     The amounts were affected by decimals but when rounding the changes are not significant since they don't affect the result.<br/>
@@ -72,6 +72,7 @@ As mentioned earlier, a previous analysis was performed and since some informati
 
     ![](resources/extra_resources/score_by_spending_challenge.PNG)
     > **Score by spending not considering 9th THS
+    
 
     - Scores by school size
     This is the same case as the scores by school spending, there's no changes.
@@ -81,6 +82,7 @@ As mentioned earlier, a previous analysis was performed and since some informati
 
     ![](resources/extra_resources/score_by_size_challenge.PNG)
     > **Score by size not considering 9th THS
+    
 
     - Scores by school type
     There's no changes in scores by school type.
@@ -90,6 +92,8 @@ As mentioned earlier, a previous analysis was performed and since some informati
 
     ![](resources/extra_resources/score_by_type_challenge.PNG)
     > **Score by type not considering 9th THS
+
+
 
 
 ## Summary
