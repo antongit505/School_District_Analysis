@@ -53,7 +53,7 @@ As mentioned earlier, a previous analysis was performed and since some informati
 * __How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?__<br/>
     When the calculations were performed again but not considering the quantity of 9th grade students from Thomas High School neither their scores, the school district summary showed numbers close to the original summary where we consider the quantity of 9th grade students from Thomas High School. As mentioned before this could happend because the grades from those studens were close to the overall mean and also, because it's a small part from the population.
 
-    ![](resources/extra_resources/school_summary_withouth_9th.png)  
+    ![](resources/extra_resources/school_summary_withouth_9th.PNG)  
     > **School summary not considering 9th grade scores and students**
 
 * __How does replacing the ninth-grade scores affect the following:__ <br/>
