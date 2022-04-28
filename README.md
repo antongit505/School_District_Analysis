@@ -34,9 +34,9 @@ As mentioned earlier, a previous analysis was performed and since some informati
 * __How is the district summary affected?__<br/>
     As we can see the district summary was barely affected, since the 461 students represent approximately 1% of the total of students from all high schools.<br/>
 
-    ![](resources/extra_resources/district_summary_canvas.PNG)
+    ![](resources/extra_resources/school_summary_canvas.PNG)
 
-    ![](resources/extra_resources/district_summary_challenge.PNG)
+    ![](resources/extra_resources/school_summary_challenge.PNG)
 
 * __How is the school summary affected?__<br/>
     When the math and reading scores from 9th graders of Thomas High School were put as NaN the averages from math and reading barely changed, this could be because   these student's grades were closed to the mean (~83).<br/>
