@@ -35,21 +35,26 @@ As mentioned earlier, a previous analysis was performed and since some informati
     As we can see the district summary was barely affected, since the 461 students represent approximately 1% of the total of students from all high schools.<br/>
 
     ![](resources/extra_resources/district_summary_canvas.PNG)
+    > **District summary considering all scores**
 
     ![](resources/extra_resources/district_summary_challenge.PNG)
+    > **District summary not considering 9th grade scores**
 
 * __How is the school summary affected?__<br/>
-    When the math and reading scores from 9th graders of Thomas High School were put as NaN the averages from math and reading barely changed, this could be because   these student's grades were closed to the mean (~83).<br/>
+    When the math and reading scores from 9th graders of Thomas High School were put as NaN the averages from math and reading barely changed, this could be because   these student's grades were close to the mean (~83).<br/>
     On the other hand, a drastic change in percentages happens, this means that most of the 9th graders passed both subjects and when calculations were performed not considering them, the numbers dropped. 
 
     ![](resources/extra_resources/school_summary_canvas.png)
+    > **School summary considering all scores**
 
     ![](resources/extra_resources/school_summary_challenge.png)
+    > **School summary not considering 9th grade scores**
 
 * __How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?__<br/>
-    When the calculations were performed again but not considering the quantity of 9th grade students from Thomas High School neither their scores, the school district summary showed numbers close to the original summary where we consider the quantity of 9th grade students from Thomas High School.
+    When the calculations were performed again but not considering the quantity of 9th grade students from Thomas High School neither their scores, the school district summary showed numbers close to the original summary where we consider the quantity of 9th grade students from Thomas High School. As mentioned before this could happend because the grades from those studens were close to the overall mean and also, because it's a small part from the population.
 
-    ![](resources/extra_resources/school_summary_without_9th.PNG)    
+    ![](resources/extra_resources/school_summary_without_9th.PNG)  
+    > **School summary not considering 9th grade scores and students**
 
 * __How does replacing the ninth-grade scores affect the following:__ <br/>
 
