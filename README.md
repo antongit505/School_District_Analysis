@@ -101,9 +101,10 @@ As mentioned earlier, a previous analysis was performed and since some informati
 
 ## Summary
 
-The changes for math and reading scores by grade, scores by school spending, scores by school size and scores by school type are not significant when comparing with the original information.<br/>
+The changes after replacing with NaNs the math and reading scores from 9th grade at Thomas High School are minimum .<br/>
+The average math score decreased 0.1, the % passing math decrease 0.2, the %passing reading decreased 0.01 and the %overall passing decreased 0.3.
+This result could be due to the size of the sample, it's approximately 1% of the overall population and that the grades from these students were close to the overall mean.
 But with this information a decision regarding budget or priorities for schools wouldn't be accurate because there's still missing information of the real performance from the 9th grade students from THS. <br/>
-The real information is needed to make decisions.
 
 
 
