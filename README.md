@@ -2,7 +2,7 @@
 
 ## Overview
 
-A chief data sciencetist for a city school district who's responsible for analyzing information from a variety of sources and a variety of formats request our help<br />.
+A chief data sciencetist for a city school district who's responsible for analyzing information from a variety of sources and a variety of formats request our help.<br />
 She's tasked with preparing  all standarized test data for analysis, reporting and presentation to provide insights about performance trends and patterns. These insights are used to inform discussions and strategic decisions at the school and district level. <br/>
 We'll be helping Maria analyize data on student funding and students standarized test scores.
 The tasks is to aggregate the data and showcase trends in school performance. This analysis will assist the school board and superintendent in making decisiones regarding the school budgets and priorities.
@@ -11,7 +11,7 @@ Two datasets were provided, the first one contains information about students an
 We'll be using pandas library and jupyter notebook to perform this analysis, also we'll use the read_csv method to read the file as a DataFrame.
 
 When we display the students dataframe the names were displayed with errors.<br/>
-The student dataset needed to be cleaned because some names had prefixes and suffixes, like *["Dr. ", "Mr. ","Ms. ", "Mrs. ", "Miss ", " MD", " DDS", " DVM", " PhD"]* .  <br/>
+The student dataset needed to be cleaned because some names had prefixes and suffixes, like *["Dr. ", "Mr. ","Ms. ", "Mrs. ", "Miss ", " MD", " DDS", " DVM", " PhD"]*.  <br/>
 For this task we use a For loop to iterate through the student's names and replace the prefixes and suffixes with nothing and the DataFrame is ready for analysis.
 
 ![](resources/extra_resources/read_csv.PNG)
@@ -102,7 +102,7 @@ As mentioned earlier, a previous analysis was performed and since some informati
 ## Summary
 
 The changes after replacing with NaNs the math and reading scores from 9th grade at Thomas High School are minimum .<br/>
-The average math score decreased 0.1, the % passing math decrease 0.2, the %passing reading decreased 0.01 and the %overall passing decreased 0.3.
+In the District summary we can notice that the average math score decreased 0.1, the % passing math decrease 0.2, the %passing reading decreased 0.01 and the %overall passing decreased 0.3.
 This result could be due to the size of the sample, it's approximately 1% of the overall population and that the grades from these students were close to the overall mean.
 But with this information a decision regarding budget or priorities for schools wouldn't be accurate because there's still missing information of the real performance from the 9th grade students from THS. <br/>
 
